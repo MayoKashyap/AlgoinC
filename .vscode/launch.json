@@ -8,7 +8,7 @@
             "name": "(lldb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/chapter2/problem8.out",
+            "program": "${workspaceFolder}/Chapter3/Problem1.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
