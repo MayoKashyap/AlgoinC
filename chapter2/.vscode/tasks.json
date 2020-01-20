@@ -8,9 +8,9 @@
         "args": [
           "-std=c++11",
           "-stdlib=libc++",
-          "problem8.cpp",
+          "${workspaceFolder}/problem8.cpp",
           "-o",
-          "problem8.out",
+          "${workspaceFolder}/problem8.out",
           "--debug"
         ],
         "group": {
